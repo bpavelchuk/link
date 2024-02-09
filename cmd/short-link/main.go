@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"short-link/cmd/internal/config"
+	"short-link/internal/config"
 )
 
 func main() {
